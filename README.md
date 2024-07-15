@@ -1,3 +1,3 @@
 # stepik_auto_tests_course
-My autotests from course
-Тут буду хранить автотесты по курсу
+My autotests from the course
+Тут храняться все задания-автотесты по курсу
